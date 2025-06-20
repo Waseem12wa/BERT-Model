@@ -1,5 +1,3 @@
-### ✅ Final `README.md` (Direct Copy-Paste Below)
-
 # BERT Resume Classifier (Fine-Tuned)
 
 This model is a fine-tuned version of `bert-base-uncased` on a custom resume dataset containing resume texts and their associated job categories. It is designed to classify a resume into categories such as **Data Science**, **Web Development**, **HR**, and others.
