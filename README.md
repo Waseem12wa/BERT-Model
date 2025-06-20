@@ -1,6 +1,5 @@
 ### ✅ Final `README.md` (Direct Copy-Paste Below)
 
-````markdown
 # BERT Resume Classifier (Fine-Tuned)
 
 This model is a fine-tuned version of `bert-base-uncased` on a custom resume dataset containing resume texts and their associated job categories. It is designed to classify a resume into categories such as **Data Science**, **Web Development**, **HR**, and others.
@@ -112,7 +111,7 @@ If you use this model, please cite the original paper for BERT:
 * 👨‍💻 **Waseem Zahid**
   Final Year CS Student – FAST NUCES
   Research Assistant (Resume Intelligence Project)
-  📫 Contact: waseem.zahid\[at]email.com
+  📫 Contact: zwaseem298@gmail.com
   🔗 [Hugging Face Profile](https://huggingface.co/zwaseem298-fast-nuces)
 
 ---
